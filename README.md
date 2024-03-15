@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Maryem Mohamed Aman, a passionate developer and tech enthusiast. Welcome to my GitHub profile!
+I'm Maryem, a passionate developer and tech enthusiast. Welcome to my GitHub profile!
 
 #### 🚀 About Me
 
