@@ -1,15 +1,15 @@
-# Hi there! 👋
+#### Hi there! 👋
 
 I'm [Your Name], a passionate developer and tech enthusiast. Welcome to my GitHub profile!
 
-## 🚀 About Me
+##### 🚀 About Me
 
 - 🔭 I'm a Digital Magician, crafting UX magic and creating extraordinary tech.
 - 🎩 I specialize in HTML, CSS, and JavaScript wizardry, and I'm a cloud enthusiast.
 - 🐍 I'm also a Python sorcerer, conjuring up powerful solutions.
 - 🌍 I'm passionate about creating positive change through technology and innovation.
 
-## 💡 What I Do
+##### 💡 What I Do
 
 - 🌟 Crafting exceptional user experiences with a touch of magic.
 - 🔥 Turning ideas into reality using HTML, CSS, and JavaScript.
@@ -17,9 +17,9 @@ I'm [Your Name], a passionate developer and tech enthusiast. Welcome to my GitHu
 - 🐍 Leveraging the power of Python to solve complex problems.
 - 🤝 Collaborating and innovating with like-minded individuals.
 
-## 📫 Get in Touch
+##### 📫 Get in Touch
 
-- GitHub: [Your GitHub Profile Link]
-- [Other Social Media or Contact Links]
+- GitHub: github.com/MaryemAman
+- LinkedIn: linkedin.com/in/maryem-mohamed-aman/
 
 Let's innovate together and make a difference! 🚀🌍✨
