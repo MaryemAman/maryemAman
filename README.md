@@ -20,6 +20,6 @@ I'm [Your Name], a passionate developer and tech enthusiast. Welcome to my GitHu
 #### 📫 Get in Touch
 
 - GitHub: github.com/MaryemAman
-- LinkedIn: linkedin.com/in/maryem-mohamed-aman/
+- LinkedIn: [linkedin.com/in/maryem-mohamed-aman/](https://www.linkedin.com/in/maryem-mohamed-aman/)
 
 Let's innovate together and make a difference! 🚀🌍✨
